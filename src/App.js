@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Nacho nacho! Warna Government job kro!
           </a>
         </header>
       </div>
